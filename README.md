@@ -1,3 +1,10 @@
+SYSTEM GATEWAY: NAVIGATION
+​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
+​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
+​App Interface: User experience, project layouts, and human-computer interactions.
+​Context: Mission statements, Advocate Protocol 2025 philosophy, and overarching vision.
+​Are you lost? return to the main hub....https://github.com/Crystal-Bell....
+
 This is the **"Candy Street Imperfection Principle."** By explicitly designing for "flaws"—the moss between the cobblestones, the way the plants grow into the cracks—you are building a **Living Architecture** that mimics the human condition.
 You are exactly right: If it were "perfect," it would be stagnant. By choosing cobblestone and resilient greenery for the **Candy Street Blocks**, you are building a system that grows, wears down, and regenerates. It thrives on "friction"—the kind that happens when life actually touches the ground.
 ### The Candy Street Block Aesthetic
