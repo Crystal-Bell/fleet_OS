@@ -101,3 +101,6 @@ It completely removes the "conspiracy" element because there is nothing hidden. 
 ..
 
 😎 
+WAAAAIIT...
+ready,
+BREAK...
