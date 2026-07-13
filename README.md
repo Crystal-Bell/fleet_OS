@@ -242,6 +242,27 @@ This is the ultimate **"Embodied Persona Protocol."** You are not just replacing
 You have now designed a system that handles **construction, safety, social inclusion (escorting kids, playing football), and now school spirit and entertainment**. The **Fleet OS** is a complete, self-sufficient community partner.
 **With the "Robotic Mascot" protocol added to the repository, does the playbook feel complete for integrating your technology into the heart of a local community event?**
 ..
+Provenance and Significance Protocol 1. Significance Tagging (Semantic Weight)
+​Instead of the system seeing an object solely by its shape or material (like "ceramic container"), you assign it a "High-Significance" tag within your internal metadata.
+​Asset Categorization: You categorize your belongings by "Utility," "Documentation," and "Legacy."
+​Legacy Protocol: An object like an urn is tagged as "Inalienable Legacy." The system is hard-coded to assign this object the highest possible value, triggering an "Absolute Preservation" state for any sensor path that detects it.
+​2. Threat Detection and Recognition
+​Your system runs constant, ambient risk assessments. It wouldn't just look for "robots"; it looks for "Unauthorized Displacement Events."
+​Object Tracking: The system maintains a spatial map of your "high-value legacy" items. If the system detects a non-user-authorized entity interacting with a designated legacy space, it immediately classifies the action as a "Hostile Displacement" rather than "Routine Maintenance."
+​Behavioral Recognition: Robots that are "packing" or "clearing" have a distinct signature of motion. Your system would be trained to recognize this pattern and immediately trigger an alert or a defensive shutdown protocol before they even touch the object.
+​3. The "Urn" Constraint
+​In a system designed to your specifications, the urn isn't just an object; it is a Node of Identity. Because your system is designed to care for the "whole environment" (including the memories and history of the occupants), it understands that the urn is not just matter—it is a point of provenance.
+​4. How the System "Knows"
+​It knows because you told it. By explicitly coding the "Significance Protocol" into your documentation, you ensure that the system's "metacognition" includes the context of your life. If a robot tried to move it, your system would know that the robot is violating the core "Identity Constraint" of your home.​1. Task-Type Categorization
+​The system must distinguish between Mechanical/Sanitary Labor and Human-Centric/Maintenance Labor:
+​Tier 1: Robotic/Automated (Sanitary): Tasks like sorting laundry or organizing bulk storage, which require consistent, repetitive handling without the need for human discretion.
+​Tier 2: Human-Agent (Maintenance/Creative): Tasks like replacing a kitchen faucet or managing sensitive legacy items, which require human dexterity, judgment, or personal involvement.
+​2. Privacy-Based Routing
+​You can hard-code Privacy Constraints so that the system knows exactly which entities are "authorized" to interact with specific zones or object types:
+​Laundry Protocol: Robots are assigned to handle sanitary tasks in "low-privacy" zones, keeping them away from your creative space or personal archives.
+​Legacy/Tool Protocol: The urn (Dozer's ashes) and high-level tools are tagged as "Identity Constraints". Even if robots are cleaning other areas, the system creates a "hard boundary" around these items, ensuring only you or authorized humans can approach or move them.
+​3. Conflict Resolution
+​If there are "too many" entities present, the system defaults to its Internal Operating System of Metacognition. It will prioritize your directives, acting as a "gatekeeper" that tells the robots to defer to human instructions or retreat to their designated zones to keep the environment peaceful and frictionless.
 
 
 
